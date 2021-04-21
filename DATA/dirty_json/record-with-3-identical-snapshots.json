@@ -1,0 +1,588 @@
+{
+    "@type": "http://dig.isi.edu/ontology/URLEntity",
+    "dig:snapshot": [
+        {
+            "dig:mentionsPersonAge": "28",
+            "schema:dateCreated": "2013-11-21T19:45:00",
+            "dig:hasTitlePart": {
+                "@type": "http://schema.org/WebPageElement",
+                "schema:text": "♡4 tonight/early moring only ♡ The 1 & only Exocet Sha'Ree♡ Don't miss my specials Military specials - 28",
+                "@id": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140101/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609/title"
+            },
+            "dig:hasBodyPart": {
+                "dig:mentionsPhoneNumber": [
+                    {
+                        "dig:tenDigitPhoneNumber": "2063560868",
+                        "schema:location": {
+                            "@type": "http://schema.org/Place",
+                            "schema:geo": {
+                                "schema:longitude": "-122.332791",
+                                "@type": "http://schema.org/GeoCoordinates",
+                                "schema:latitude": "47.610144",
+                                "@id": "http://dig.isi.edu/data/exchange/206356/geo"
+                            },
+                            "@id": "http://dig.isi.edu/data/exchange/206356",
+                            "schema:address": {
+                                "schema:addressLocality": "Seattle",
+                                "@type": "http://schema.org/PostalAddress",
+                                "schema:addressRegion": "Washington",
+                                "@id": "http://dig.isi.edu/data/exchange/206356/postaladdress"
+                            }
+                        },
+                        "@type": "http://dig.isi.edu/ontology/PhoneNumber",
+                        "@id": "http://dig.isi.edu/data/phonenumber/2063560868"
+                    },
+                    {
+                        "dig:tenDigitPhoneNumber": "2536662837",
+                        "schema:location": {
+                            "@type": "http://schema.org/Place",
+                            "schema:geo": {
+                                "schema:longitude": "-122.436871",
+                                "@type": "http://schema.org/GeoCoordinates",
+                                "schema:latitude": "47.256514",
+                                "@id": "http://dig.isi.edu/data/exchange/253666/geo"
+                            },
+                            "@id": "http://dig.isi.edu/data/exchange/253666",
+                            "schema:address": {
+                                "schema:addressLocality": "Tacoma",
+                                "@type": "http://schema.org/PostalAddress",
+                                "schema:addressRegion": "Washington",
+                                "@id": "http://dig.isi.edu/data/exchange/253666/postaladdress"
+                            }
+                        },
+                        "@type": "http://dig.isi.edu/ontology/PhoneNumber",
+                        "@id": "http://dig.isi.edu/data/phonenumber/2536662837"
+                    }
+                ],
+                "@type": "http://schema.org/WebPageElement",
+                "schema:text": "\r\n      \r\n        \r\n        \r\n          ☆Yes it's correct prices☆ no catch this is the real deal ☆100% in my pictures if it's not its free an I will pay u☆  ★come play with me before I take off ★ Don't miss out on☆  ☆GreatSpecials ★ ☆Sexy playmate☆ ☆Experience☆ ★Friendly☆ ☆I don't rush our time together ★ ☆100% me in my pictures☆ ☆I enjoy doing what I do☆ ☆I enjoy meeting new people☆ ☆hope to hear from you☆  ★24/7☆ ♡Xoxo♡ ♡Sha'Ree♡ 206♡356♡0868 or ☆253☆666☆2837☆  come get great services with at a great price\r\n        \r\n      \r\n    ",
+                "@id": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140101/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609/body"
+            },
+            "dig:cacheUrl": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140101/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609",
+            "dig:preferredIdentifier": {
+                "rdfs:label": "14973609",
+                "@type": "http://dig.isi.edu/ontology/Identifier",
+                "@id": "http://dig.isi.edu/data/backpage/14973609/identifier/sid"
+            },
+            "schema:url": "http://olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609",
+            "@type": "http://schema.org/WebPage",
+            "dig:primaryLocation": {
+                "@type": "http://schema.org/Place",
+                "schema:geo": {
+                    "schema:longitude": "-122.476475",
+                    "@type": "http://schema.org/GeoCoordinates",
+                    "schema:latitude": "47.137678",
+                    "@id": "http://dig.isi.edu/data/iata/tcm/geo"
+                },
+                "schema:iataCode": "TCM",
+                "@id": "http://dig.isi.edu/data/iata/tcm",
+                "schema:address": {
+                    "schema:addressCountry": {
+                        "@type": "http://schema.org/Country",
+                        "@id": "http://dig.isi.edu/data/country/unitedstates"
+                    },
+                    "schema:addressLocality": "Tacoma",
+                    "@type": "http://schema.org/PostalAddress",
+                    "@id": "http://dig.isi.edu/data/iata/tcm/postaladdress"
+                }
+            },
+            "dig:mentionsPlace": {
+                "rdfs:label": "Olympia, Olympia Outcalls only Incall in Tacoma",
+                "@type": "http://schema.org/Place",
+                "@id": "_:schema_Place2_N350"
+            },
+            "@id": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140101/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609",
+            "dig:hasImagePart": [
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images1.backpage.com/imager/u/medium/107492483/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images1.backpage.com/imager/u/medium/107492483/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images1.backpage.com/imager/u/medium/107492483/image.jpg"
+                    ],
+                    "schema:url": "http://images1.backpage.com/imager/u/medium/107492483/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images1.backpage.com/imager/u/medium/107492483/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images1.backpage.com/imager/u/medium/107492485/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images1.backpage.com/imager/u/medium/107492485/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images1.backpage.com/imager/u/medium/107492485/image.jpg"
+                    ],
+                    "schema:url": "http://images1.backpage.com/imager/u/medium/107492485/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images1.backpage.com/imager/u/medium/107492485/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images2.backpage.com/imager/u/medium/107492477/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images2.backpage.com/imager/u/medium/107492477/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images2.backpage.com/imager/u/medium/107492477/image.jpg"
+                    ],
+                    "schema:url": "http://images2.backpage.com/imager/u/medium/107492477/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images2.backpage.com/imager/u/medium/107492477/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images2.backpage.com/imager/u/medium/107492480/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images2.backpage.com/imager/u/medium/107492480/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images2.backpage.com/imager/u/medium/107492480/image.jpg"
+                    ],
+                    "schema:url": "http://images2.backpage.com/imager/u/medium/107492480/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images2.backpage.com/imager/u/medium/107492480/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492461/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492461/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492461/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492461/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492461/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492463/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492463/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492463/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492463/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492463/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492467/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492467/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492467/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492467/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492467/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492476/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492476/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492476/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492476/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492476/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492479/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492479/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492479/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492479/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492479/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492482/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492482/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492482/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492482/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492482/image.jpg"
+                }
+            ]
+        },
+        {
+            "dig:mentionsPersonAge": "28",
+            "schema:dateCreated": "2013-11-21T19:45:00",
+            "dig:hasTitlePart": {
+                "@type": "http://schema.org/WebPageElement",
+                "schema:text": "♡4 tonight/early moring only ♡ The 1 & only Exocet Sha'Ree♡ Don't miss my specials Military specials - 28",
+                "@id": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140102/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609/title"
+            },
+            "dig:hasBodyPart": {
+                "dig:mentionsPhoneNumber": [
+                    {
+                        "dig:tenDigitPhoneNumber": "2063560868",
+                        "schema:location": {
+                            "@type": "http://schema.org/Place",
+                            "schema:geo": {
+                                "schema:longitude": "-122.332791",
+                                "@type": "http://schema.org/GeoCoordinates",
+                                "schema:latitude": "47.610144",
+                                "@id": "http://dig.isi.edu/data/exchange/206356/geo"
+                            },
+                            "@id": "http://dig.isi.edu/data/exchange/206356",
+                            "schema:address": {
+                                "schema:addressLocality": "Seattle",
+                                "@type": "http://schema.org/PostalAddress",
+                                "schema:addressRegion": "Washington",
+                                "@id": "http://dig.isi.edu/data/exchange/206356/postaladdress"
+                            }
+                        },
+                        "@type": "http://dig.isi.edu/ontology/PhoneNumber",
+                        "@id": "http://dig.isi.edu/data/phonenumber/2063560868"
+                    },
+                    {
+                        "dig:tenDigitPhoneNumber": "2536662837",
+                        "schema:location": {
+                            "@type": "http://schema.org/Place",
+                            "schema:geo": {
+                                "schema:longitude": "-122.436871",
+                                "@type": "http://schema.org/GeoCoordinates",
+                                "schema:latitude": "47.256514",
+                                "@id": "http://dig.isi.edu/data/exchange/253666/geo"
+                            },
+                            "@id": "http://dig.isi.edu/data/exchange/253666",
+                            "schema:address": {
+                                "schema:addressLocality": "Tacoma",
+                                "@type": "http://schema.org/PostalAddress",
+                                "schema:addressRegion": "Washington",
+                                "@id": "http://dig.isi.edu/data/exchange/253666/postaladdress"
+                            }
+                        },
+                        "@type": "http://dig.isi.edu/ontology/PhoneNumber",
+                        "@id": "http://dig.isi.edu/data/phonenumber/2536662837"
+                    }
+                ],
+                "@type": "http://schema.org/WebPageElement",
+                "schema:text": "\r\n      \r\n        \r\n        \r\n          ☆Yes it's correct prices☆ no catch this is the real deal ☆100% in my pictures if it's not its free an I will pay u☆  ★come play with me before I take off ★ Don't miss out on☆  ☆GreatSpecials ★ ☆Sexy playmate☆ ☆Experience☆ ★Friendly☆ ☆I don't rush our time together ★ ☆100% me in my pictures☆ ☆I enjoy doing what I do☆ ☆I enjoy meeting new people☆ ☆hope to hear from you☆  ★24/7☆ ♡Xoxo♡ ♡Sha'Ree♡ 206♡356♡0868 or ☆253☆666☆2837☆  come get great services with at a great price\r\n        \r\n      \r\n    ",
+                "@id": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140102/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609/body"
+            },
+            "dig:cacheUrl": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140102/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609",
+            "dig:preferredIdentifier": {
+                "rdfs:label": "14973609",
+                "@type": "http://dig.isi.edu/ontology/Identifier",
+                "@id": "http://dig.isi.edu/data/backpage/14973609/identifier/sid"
+            },
+            "schema:url": "http://olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609",
+            "@type": "http://schema.org/WebPage",
+            "dig:primaryLocation": {
+                "@type": "http://schema.org/Place",
+                "schema:geo": {
+                    "schema:longitude": "-122.476475",
+                    "@type": "http://schema.org/GeoCoordinates",
+                    "schema:latitude": "47.137678",
+                    "@id": "http://dig.isi.edu/data/iata/tcm/geo"
+                },
+                "schema:iataCode": "TCM",
+                "@id": "http://dig.isi.edu/data/iata/tcm",
+                "schema:address": {
+                    "schema:addressCountry": {
+                        "@type": "http://schema.org/Country",
+                        "@id": "http://dig.isi.edu/data/country/unitedstates"
+                    },
+                    "schema:addressLocality": "Tacoma",
+                    "@type": "http://schema.org/PostalAddress",
+                    "@id": "http://dig.isi.edu/data/iata/tcm/postaladdress"
+                }
+            },
+            "dig:mentionsPlace": {
+                "rdfs:label": "Olympia, Olympia Outcalls only Incall in Tacoma",
+                "@type": "http://schema.org/Place",
+                "@id": "_:schema_Place2_N7798"
+            },
+            "@id": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140102/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609",
+            "dig:hasImagePart": [
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images1.backpage.com/imager/u/medium/107492483/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images1.backpage.com/imager/u/medium/107492483/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images1.backpage.com/imager/u/medium/107492483/image.jpg"
+                    ],
+                    "schema:url": "http://images1.backpage.com/imager/u/medium/107492483/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images1.backpage.com/imager/u/medium/107492483/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images1.backpage.com/imager/u/medium/107492485/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images1.backpage.com/imager/u/medium/107492485/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images1.backpage.com/imager/u/medium/107492485/image.jpg"
+                    ],
+                    "schema:url": "http://images1.backpage.com/imager/u/medium/107492485/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images1.backpage.com/imager/u/medium/107492485/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images2.backpage.com/imager/u/medium/107492477/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images2.backpage.com/imager/u/medium/107492477/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images2.backpage.com/imager/u/medium/107492477/image.jpg"
+                    ],
+                    "schema:url": "http://images2.backpage.com/imager/u/medium/107492477/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images2.backpage.com/imager/u/medium/107492477/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images2.backpage.com/imager/u/medium/107492480/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images2.backpage.com/imager/u/medium/107492480/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images2.backpage.com/imager/u/medium/107492480/image.jpg"
+                    ],
+                    "schema:url": "http://images2.backpage.com/imager/u/medium/107492480/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images2.backpage.com/imager/u/medium/107492480/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492461/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492461/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492461/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492461/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492461/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492463/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492463/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492463/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492463/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492463/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492467/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492467/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492467/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492467/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492467/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492476/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492476/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492476/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492476/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492476/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492479/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492479/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492479/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492479/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492479/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492482/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492482/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492482/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492482/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492482/image.jpg"
+                }
+            ]
+        },
+        {
+            "dig:mentionsPersonAge": "28",
+            "schema:dateCreated": "2013-11-21T19:45:00",
+            "dig:hasTitlePart": {
+                "@type": "http://schema.org/WebPageElement",
+                "schema:text": "♡4 tonight/early moring only ♡ The 1 & only Exocet Sha'Ree♡ Don't miss my specials Military specials - 28",
+                "@id": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140103/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609/title"
+            },
+            "dig:hasBodyPart": {
+                "dig:mentionsPhoneNumber": [
+                    {
+                        "dig:tenDigitPhoneNumber": "2063560868",
+                        "schema:location": {
+                            "@type": "http://schema.org/Place",
+                            "schema:geo": {
+                                "schema:longitude": "-122.332791",
+                                "@type": "http://schema.org/GeoCoordinates",
+                                "schema:latitude": "47.610144",
+                                "@id": "http://dig.isi.edu/data/exchange/206356/geo"
+                            },
+                            "@id": "http://dig.isi.edu/data/exchange/206356",
+                            "schema:address": {
+                                "schema:addressLocality": "Seattle",
+                                "@type": "http://schema.org/PostalAddress",
+                                "schema:addressRegion": "Washington",
+                                "@id": "http://dig.isi.edu/data/exchange/206356/postaladdress"
+                            }
+                        },
+                        "@type": "http://dig.isi.edu/ontology/PhoneNumber",
+                        "@id": "http://dig.isi.edu/data/phonenumber/2063560868"
+                    },
+                    {
+                        "dig:tenDigitPhoneNumber": "2536662837",
+                        "schema:location": {
+                            "@type": "http://schema.org/Place",
+                            "schema:geo": {
+                                "schema:longitude": "-122.436871",
+                                "@type": "http://schema.org/GeoCoordinates",
+                                "schema:latitude": "47.256514",
+                                "@id": "http://dig.isi.edu/data/exchange/253666/geo"
+                            },
+                            "@id": "http://dig.isi.edu/data/exchange/253666",
+                            "schema:address": {
+                                "schema:addressLocality": "Tacoma",
+                                "@type": "http://schema.org/PostalAddress",
+                                "schema:addressRegion": "Washington",
+                                "@id": "http://dig.isi.edu/data/exchange/253666/postaladdress"
+                            }
+                        },
+                        "@type": "http://dig.isi.edu/ontology/PhoneNumber",
+                        "@id": "http://dig.isi.edu/data/phonenumber/2536662837"
+                    }
+                ],
+                "@type": "http://schema.org/WebPageElement",
+                "schema:text": "\r\n      \r\n        \r\n        \r\n          ☆Yes it's correct prices☆ no catch this is the real deal ☆100% in my pictures if it's not its free an I will pay u☆  ★come play with me before I take off ★ Don't miss out on☆  ☆GreatSpecials ★ ☆Sexy playmate☆ ☆Experience☆ ★Friendly☆ ☆I don't rush our time together ★ ☆100% me in my pictures☆ ☆I enjoy doing what I do☆ ☆I enjoy meeting new people☆ ☆hope to hear from you☆  ★24/7☆ ♡Xoxo♡ ♡Sha'Ree♡ 206♡356♡0868 or ☆253☆666☆2837☆  come get great services with at a great price\r\n        \r\n      \r\n    ",
+                "@id": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140103/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609/body"
+            },
+            "dig:cacheUrl": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140103/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609",
+            "dig:preferredIdentifier": {
+                "rdfs:label": "14973609",
+                "@type": "http://dig.isi.edu/ontology/Identifier",
+                "@id": "http://dig.isi.edu/data/backpage/14973609/identifier/sid"
+            },
+            "schema:url": "http://olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609",
+            "@type": "http://schema.org/WebPage",
+            "dig:primaryLocation": {
+                "@type": "http://schema.org/Place",
+                "schema:geo": {
+                    "schema:longitude": "-122.476475",
+                    "@type": "http://schema.org/GeoCoordinates",
+                    "schema:latitude": "47.137678",
+                    "@id": "http://dig.isi.edu/data/iata/tcm/geo"
+                },
+                "schema:iataCode": "TCM",
+                "@id": "http://dig.isi.edu/data/iata/tcm",
+                "schema:address": {
+                    "schema:addressCountry": {
+                        "@type": "http://schema.org/Country",
+                        "@id": "http://dig.isi.edu/data/country/unitedstates"
+                    },
+                    "schema:addressLocality": "Tacoma",
+                    "@type": "http://schema.org/PostalAddress",
+                    "@id": "http://dig.isi.edu/data/iata/tcm/postaladdress"
+                }
+            },
+            "dig:mentionsPlace": {
+                "rdfs:label": "Olympia, Olympia Outcalls only Incall in Tacoma",
+                "@type": "http://schema.org/Place",
+                "@id": "_:schema_Place2_N15218"
+            },
+            "@id": "https://karmadigstorage.blob.core.windows.net/arch/churl/20140103/olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609",
+            "dig:hasImagePart": [
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images1.backpage.com/imager/u/medium/107492483/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images1.backpage.com/imager/u/medium/107492483/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images1.backpage.com/imager/u/medium/107492483/image.jpg"
+                    ],
+                    "schema:url": "http://images1.backpage.com/imager/u/medium/107492483/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images1.backpage.com/imager/u/medium/107492483/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images1.backpage.com/imager/u/medium/107492485/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images1.backpage.com/imager/u/medium/107492485/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images1.backpage.com/imager/u/medium/107492485/image.jpg"
+                    ],
+                    "schema:url": "http://images1.backpage.com/imager/u/medium/107492485/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images1.backpage.com/imager/u/medium/107492485/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images2.backpage.com/imager/u/medium/107492477/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images2.backpage.com/imager/u/medium/107492477/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images2.backpage.com/imager/u/medium/107492477/image.jpg"
+                    ],
+                    "schema:url": "http://images2.backpage.com/imager/u/medium/107492477/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images2.backpage.com/imager/u/medium/107492477/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images2.backpage.com/imager/u/medium/107492480/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images2.backpage.com/imager/u/medium/107492480/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images2.backpage.com/imager/u/medium/107492480/image.jpg"
+                    ],
+                    "schema:url": "http://images2.backpage.com/imager/u/medium/107492480/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images2.backpage.com/imager/u/medium/107492480/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492461/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492461/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492461/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492461/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492461/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492463/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492463/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492463/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492463/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492463/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492467/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492467/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492467/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492467/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492467/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492476/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492476/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492476/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492476/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492476/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492479/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492479/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492479/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492479/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492479/image.jpg"
+                },
+                {
+                    "dig:cacheUrl": [
+                        "http://studio.isi.edu/arch/data/escort/20140101/images3.backpage.com/imager/u/medium/107492482/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140102/images3.backpage.com/imager/u/medium/107492482/image.jpg",
+                        "http://studio.isi.edu/arch/data/escort/20140103/images3.backpage.com/imager/u/medium/107492482/image.jpg"
+                    ],
+                    "schema:url": "http://images3.backpage.com/imager/u/medium/107492482/image.jpg",
+                    "@type": "http://schema.org/ImageObject",
+                    "@id": "http://images3.backpage.com/imager/u/medium/107492482/image.jpg"
+                }
+            ]
+        }
+    ],
+    "@id": "http://olympia.backpage.com/FemaleEscorts/4-tonightearly-moring-only-the-1-and-only-exocet-sharee-dont-miss-my-specials-military-specials-28/14973609"
+}
