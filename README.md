@@ -11,7 +11,7 @@ More on wikipedia - https://en.wikipedia.org/wiki/Backpage
 It was developed during a the Anti-Trafficking Hackathon (https://www.facebook.com/events/341855330476545) by one of sigmaritans - Vasile Păpăluță.
 
 The repository have the following structure:
-* DATA - the folder with all data files.\
+* DATA - the folder with all data files.
   - dirty_json - 6 json files with the original data found in a folder.
   - cleaned_json - 6 json files wiht cleaned data.
 * EDA - the folder stores 2 files:
@@ -30,6 +30,6 @@ The repository have the following structure:
   - vocabulary.json - the json file with the list of the tokens of interest.
   - database.bak, database.dat, database.dir - the shelve files for storing the user data. (create your own).
 
-To run the project you must run the bot.py file by typing - python bot.py.
+To run the project you must run the bot.py file by typing - ```python bot.py```.
 
 Made with love by Sigmoid.
