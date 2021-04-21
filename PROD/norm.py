@@ -1,3 +1,9 @@
+'''
+Made with love by Sigmoid.
+
+@author - Păpăluță Vasile (papaluta.vasile@isa.utm.md)
+'''
+
 # Importing all needed functions.
 from sklearn.base import BaseEstimator, TransformerMixin
 import re
