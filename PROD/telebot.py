@@ -1,3 +1,8 @@
+'''
+Made with love by Sigmoid.
+
+@author - Păpăluță Vasile (papaluta.vasile@isa.utm.md)
+'''
 # Importing all needed libraries and modules.
 import json
 import requests
