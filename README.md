@@ -30,4 +30,6 @@ The repository have the following structure:
   - vocabulary.json - the json file with the list of the tokens of interest.
   - database.bak, database.dat, database.dir - the shelve files for storing the user data. (create your own).
 
+To run the project you must run the bot.py file by typing - python bot.py.
+
 Made with love by Sigmoid.
